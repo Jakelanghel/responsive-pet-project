@@ -224,7 +224,6 @@ footer {
 }
 
 .carousel-btn {
-    /* font-size: .75em; */
     color: var(--dark-grey);
     background: var(--light-purple);
     border: solid 1px var(--dark-grey);
